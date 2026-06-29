@@ -12,7 +12,7 @@ public:
             currmax = max(nums[i], currmax*nums[i]) ;
 
             maxi = max({currmin,currmax,maxi}) ;
-            cout << currmin << " " << currmax ;
+            // cout << currmin << " " << currmax ;
         }
 
         return maxi ;
