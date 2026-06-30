@@ -1,29 +1,24 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int n = s.size();
-        int cnt = 0;
+        int n = s .size() ;
+        int cnt[3] = {0} ;
+        int l = 0 , ct = 0 ;
 
-        int a, b, c;
-        a = b = c = -1;
+        for(int r = 0 ; r < n ; r++) {
+            cnt[s[r] - 'a']++ ;
 
-        for (int i = 0; i < n; i++) {
-            if (s[i] == 'a')
-                a = i;
-            else if (s[i] == 'b')
-                b = i;
-            else
-                c = i;
+            while(cnt[0] > 0 && cnt[1] > 0 && cnt[2] > 0) {
 
-            if (a != -1 && b != -1 && c != -1) {
-                cnt += min({a,b,c}) + 1 ;
-
+                ct += n - r ;
+                cnt[s[l] - 'a']-- ;
+                l++ ;
             }
-            
         }
-        return cnt ;
+        return ct ;
     }
 };
+
 
 /**
 
@@ -62,4 +57,39 @@ public:
         return cnt ;
     }
 };
+
+
+
+// best
+class Solution {
+public:
+    int numberOfSubstrings(string s) {
+        int n = s.size();
+        int cnt = 0;
+
+        int a, b, c;
+        a = b = c = -1;
+
+        for (int i = 0; i < n; i++) {
+            if (s[i] == 'a')
+                a = i;
+            else if (s[i] == 'b')
+                b = i;
+            else
+                c = i;
+
+            if (a != -1 && b != -1 && c != -1) {
+                cnt += min({a,b,c}) + 1 ;
+
+            }
+            
+        }
+        return cnt ;
+    }
+};
+
+
+
+
+
 */
