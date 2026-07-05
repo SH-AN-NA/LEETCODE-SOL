@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0118-pascals-triangle) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0162-find-peak-element) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
