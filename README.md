@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
