@@ -6,19 +6,15 @@ public:
 
         sort(str.begin(), str.end());
 
-        string first = str[0];
-
-        string last = str[str.size() - 1];
-
         string ans = "";
 
-        int minLength = min(first.size(), last.size());
+        int minLength = min(str[0].size(), str[str.size() - 1].size());
 
         for (int i = 0; i < minLength; i++) {
 
-            if (first[i] != last[i]) break;
+            if (str[0][i] != str[str.size() - 1][i]) break;
 
-            ans += first[i];
+            ans += str[0][i];
         }
 
         return ans;
