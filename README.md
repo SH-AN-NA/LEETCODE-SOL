@@ -89,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1903-largest-odd-number-in-string) |
