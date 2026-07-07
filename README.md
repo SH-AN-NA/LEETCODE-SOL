@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0205-isomorphic-strings) |
+| [0560-subarray-sum-equals-k](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
