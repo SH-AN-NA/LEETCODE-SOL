@@ -1,19 +1,23 @@
-auto init = []() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    return 0;
-}();
+// auto init = []() {
+//     ios_base::sync_with_stdio(false);
+//     cin.tie(NULL);
+//     return 0;
+// }();
 class Solution {
 public:
     int maxDepth(string s) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int cnt = 0 , maxi = 0 ;
         for(char c : s) {
-            if(c=='(')
+            if(c=='(') {
                 cnt++ ;
+                if (cnt > maxi) maxi = cnt;
+            }
             if(c==')')
                 cnt-- ;
 
-            maxi = max(cnt,maxi) ;
+            
         }
         return maxi ;
     }
