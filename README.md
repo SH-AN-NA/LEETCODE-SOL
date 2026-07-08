@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
