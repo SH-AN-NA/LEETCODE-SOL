@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1903-largest-odd-number-in-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
 |  |
 | ------- |
