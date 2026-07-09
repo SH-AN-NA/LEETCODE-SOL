@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1901-find-a-peak-element-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1901-find-a-peak-element-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -166,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
