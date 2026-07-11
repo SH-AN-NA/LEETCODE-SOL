@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0041-first-missing-positive) |
+| [0142-linked-list-cycle-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
