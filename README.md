@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1288-remove-covered-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1901-find-a-peak-element-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
+| [1386-cinema-seat-allocation](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1903-largest-odd-number-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1386-cinema-seat-allocation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
