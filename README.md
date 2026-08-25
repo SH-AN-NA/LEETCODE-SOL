@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0088-merge-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0152-maximum-product-subarray) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1386-cinema-seat-allocation) |
