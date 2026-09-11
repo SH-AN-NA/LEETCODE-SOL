@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
