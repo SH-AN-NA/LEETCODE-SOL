@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1903-largest-odd-number-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0102-binary-tree-level-order-traversal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
