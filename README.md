@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -262,4 +264,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/SH-AN-NA/LEETCODE-SOL/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
